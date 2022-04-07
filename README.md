@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div align="center">
+ 
+[![mcherki's 42 stats](https://badge.mediaplus.ma/levi/mcherki)](https://github.com/oakoudad/badge42))
+</div>
+
 <!--
 **Zilderis/Zilderis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
