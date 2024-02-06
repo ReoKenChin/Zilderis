@@ -1,13 +1,7 @@
 
 # Hi there, I'm Mohammed , I'm Happy to see you here! 👋
-<div align="center">
- 
-[![mcherki's 42 stats](https://badge.mediaplus.ma/levi/mcherki)](https://github.com/oakoudad/badge42)
-</div>
 
 ## Glad you're here
-
-![](https://komarev.com/ghpvc/?username=Zilderisl&color=blue)
 
 ## I'm a computer science engineering student
 
